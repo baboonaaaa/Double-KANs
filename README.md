@@ -36,7 +36,7 @@ matplotlib>=3.5.0
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/Double-KANs.git
+git clone https://github.com/baboonaaaa/Double-KANs.git
 cd Double-KANs
 
 # Install dependencies
