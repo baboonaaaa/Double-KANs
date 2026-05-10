@@ -70,7 +70,7 @@ python train_minist_double_kan.py --help
 If you use Double-KANs in your research, please cite our paper:
 
 ```bibtex
-@article{2026doublekan,
+@article{2026doublekans,
 title = {Double-KANs: Enhancing KANs with simplified NURBS for accurate modeling of discontinuous signals},
 author = {Wei Gao and Hongtao Liu and Meixuan Li and Xingfei Li and Xuefeng Li},
 journal = {Neurocomputing},
