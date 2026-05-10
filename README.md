@@ -1,5 +1,5 @@
 # Double-KANs: Enhancing KANs with Simplified NURBS for Accurate Approximation of Discontinuous Signals
-![Double-KAN Architecture](images/highlight.png)
+![Double-KAN Architecture](ph.png)
 
 
 ## Abstract
